@@ -1,6 +1,9 @@
+### This repository has no license, therefore all rights are reserved. You cannot modily or redistribute this code without explicit permission from the copyright holder.
+### Please send an e-mail to: `realtimeactionrecognition@gmail.com` for any queries.
+
+
 # Real-time Action Recognition System
 This is a specific use-case of the Real-time Action Recognition System. In this implementation, we use the new model to demostrate handwash auditing, by using a live feed of a camera setup above a sink where the handwash is being performed.
-
 
 ## Instructions to run the code:
 

@@ -49,7 +49,7 @@ The pre-processed training data can be found [here](https://drive.google.com/fil
 
 The pre-processed testing data can be found [here](https://drive.google.com/file/d/1z11xSq9VZlPKKj33eTAfGyzp82B1pJjY/view?usp=sharing).
 
-
+A Kaggle dataset for this application can be found [here](https://www.kaggle.com/realtimear/hand-wash-dataset).
 
 ## Points to remember:
 1. A webcam must be connected to the computer/laptop.
